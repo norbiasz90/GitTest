@@ -28,3 +28,24 @@ _to jest repo do nauki gita:)._
     
 `<H3>KOD KOD KOD KOD</H3>`
 
+
+1. ELEMENT
+2. ELEMENT
+3. ELEMENT
+  1. ELEMENT
+  2. ELEMENT
+    1. ELEMENT
+4. ELEMENT
+
+- ELEMENT
+- ELEMENT
+- ELEMENT
+ - ELEMENT
+ - ELEMENT
+ 
+- [x] task nr. 1.
+- [x] task nr. 2.
+- [x] task nr. 3.
+- [ ] task nr. 4.
+
+ [Nauka markdown](https://github.com/norbiasz90/)
