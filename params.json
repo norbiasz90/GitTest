@@ -1,0 +1,6 @@
+{
+  "name": "Gittest",
+  "tagline": "repo do nauki gita",
+  "body": "# H1 testowe reo\r\n## H2 testowe repo\r\n### H3 testowe repo\r\n#### H4 testowe repo\r\n##### H5 testowe repo\r\n\r\n\r\n to jest repo do nauki gita:).\r\n \r\n**to jest repo do nauki gita:).**\r\n\r\n__to jest repo do nauki gita:).__\r\n\r\n*to jest repo do nauki gita:).*\r\n\r\n_to jest repo do nauki gita:)._\r\n\r\n ~~to jest repo do nauki gita:).~~\r\n\r\n >to jest repo do nauki gita:).\r\n\r\n````\r\n<H1>JAKIŚ KOD</H1>\r\n````\r\n\r\n    <H2>KOD KOD KOD KOD</H2>\r\n    \r\n`<H3>KOD KOD KOD KOD</H3>`\r\n\r\n\r\n1. ELEMENT\r\n2. ELEMENT\r\n3. ELEMENT\r\n  1. ELEMENT\r\n  2. ELEMENT\r\n    1. ELEMENT\r\n4. ELEMENT\r\n\r\n- ELEMENT\r\n- ELEMENT\r\n- ELEMENT\r\n - ELEMENT\r\n - ELEMENT\r\n \r\n- [x] task nr. 1.\r\n- [x] task nr. 2.\r\n- [x] task nr. 3.\r\n- [ ] task nr. 4.\r\n\r\n [Nauka markdown](https://github.com/norbiasz90/)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
