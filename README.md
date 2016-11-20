@@ -5,20 +5,25 @@
 ##### H5 testowe repo
 
 
-to jest repo do nauki gita:).
+ to jest repo do nauki gita:).
 **to jest repo do nauki gita:).**
+
+
 __to jest repo do nauki gita:).__
 
 
 
 
 *to jest repo do nauki gita:).*
+
+ 
 _to jest repo do nauki gita:)._
 
-~~to jest repo do nauki gita:).~~
+
+ ~~to jest repo do nauki gita:).~~
 
 
->to jest repo do nauki gita:).
+ >to jest repo do nauki gita:).
 
 ````
 <H1>JAKIŚ KOD</H1>
